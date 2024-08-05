@@ -17,6 +17,12 @@ This is a simple To-Do List application built using Tkinter, a Python GUI toolki
     python todo_list.py
     ```
 
+5. To Make this code as `.exe` file, run the following command in correct directory's terminal:
+
+    ```sh
+    pyinstaller -F -w -i images.ico to_do.py
+    ```
+
 ## Usage
 
 1. Upon launching the application, you will see an empty task list.
