@@ -7,11 +7,13 @@ This is a simple To-Do List application built using Tkinter, a Python GUI toolki
 1. Clone this repository to your local machine.
 2. Make sure you have Python installed on your system.
 3. Install the required dependencies by running the following command:
-    ```
+
+    ```sh
     pip install tkinter
     ```
 4. Run the application by executing the following command:
-    ```
+
+    ```sh
     python todo_list.py
     ```
 
